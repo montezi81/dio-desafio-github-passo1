@@ -1,0 +1,6 @@
+Usaremos comando básicos:
+
+Verifica o status da pasta - git status
+Para enviar todas as modificações criada dentro da pasta (versionamento local) - git add . 
+Para juntar as informações de inclusão e alteração na máquina local (como se fizesse um arquivo compactado e juntasse todas as modificações da pasta local e gerasse um arquivo) - git commit -m "Envio do primeiro commit"
+Para mandar tudo para o github - git push origin main
